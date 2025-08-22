@@ -24,9 +24,9 @@ A área Analisada na pesquisa foi: analise e desenvolvimento de sistemas.
 
 •	Analise e desenvolvimento de sistemas 
 
-	Desenvolvedor júnior
+	DESENVOLVEDOR JUNIOR
 
-+	Hard skill obrigatórias: Python, SQL, JavaScript, HTML/CSS, C#. SQL Server, GitHub.                                       
++	Hard skill Obrigatórias: Python, SQL, JavaScript, HTML/CSS, C#. SQL Server, GitHub.                                       
 
 +	Hard skill desejáveis: Maven, Nexus, Jenkins, Sonar, Docker, API Gateway, SQS,
  
@@ -45,11 +45,11 @@ A área Analisada na pesquisa foi: analise e desenvolvimento de sistemas.
  
 
 
-	Desenvolverdor pleno
+	DESENVOLVEDOR PLENO
 
 
 
-+	Hard skill obrigatórias:  MySQL, PostgreSQL, Git, GitHub, APIs RESTful, APIs SOAP, React + Next.js e TypeScript.
++	Hard skill Obrigatórias:  MySQL, PostgreSQL, Git, GitHub, APIs RESTful, APIs SOAP, React + Next.js e TypeScript.
   
 +	Hard skill desejáveis: Python, SQL, JavaScript, HTML/CSS, C#.PHP, Angular e Click House, Figma, Sketch, Adobe XD, Redux, Context API, Zustand.
 
@@ -64,9 +64,9 @@ A área Analisada na pesquisa foi: analise e desenvolvimento de sistemas.
 
 ----
   
-Desenvolvedor sênior
+DESENVOLVEDOR SENIOR
 
-+	Hard skill obrigatórias: STEM, APIs SOAP. Selenium, Cypress Playwright, CI/CD. TypeScript, RxJS e NGRX. GitLab CI, Node.js, REST, Web API e WSDL.
++	Hard skill Obrigatórias: STEM, APIs SOAP. Selenium, Cypress Playwright, CI/CD. TypeScript, RxJS e NGRX. GitLab CI, Node.js, REST, Web API e WSDL.
   
 +	Hard skill desejáveis: WCAG, ISTQB, JMeter, LoadRunner, ReactJS, Flux, Redux, Relay
 
@@ -95,9 +95,9 @@ Plano de Ação (6 meses)
 Conclusão
 
 
-Com as análises feitas em sites de vagas de emprego, pode-se, portanto, entender que o mercado de tecnologia aumentou de forma bem acelerada, com a alta demanda de profissionais preparados e bem qualificados. Muitas empresas procuram recrutar profissionais com grande portifólio e com muitos pré-requisitos diferencias, tempo de experiencia, idiomas como diferencial sem fazer nenhuma distinção de raça, cor, cultura, religião e dentre outros. Novas tecnologia estão surgindo e isso mostra que o profissional de tecnologia deve estar atento as novas atualizações e se aprofundar em aprendizado continuo e mutuo.
+Com as análises feitas em sites de vagas de emprego, pode-se, portanto, entender que o mercado de tecnologia aumentou de forma bem acelerada, com a alta demanda de profissionais Preparados e Bem Qualificados. Muitas empresas procuram recrutar profissionais com grande Portifólio e com muitos pré-requisitos diferencias, tempo de experiencia, idiomas como diferencial sem fazer nenhuma distinção de raça, cor, cultura, religião e dentre outros. Novas tecnologia estão surgindo e isso mostra que o profissional de tecnologia deve estar atento as novas atualizações e se aprofundar em aprendizado continuo e mutuo.
 
 
 
- #DesenvolvimentoWeb #MercadoDeTI #CarreiraEmTecnologia #HardSkills #SoftSkills #AnaliseDeDados"
+ #DesenvolvimentoWeb #MercadoDeTI #CarreiraEmTecnologia #HardSkills #SoftSkills #AnaliseDeDados #futuro Programador"
 
