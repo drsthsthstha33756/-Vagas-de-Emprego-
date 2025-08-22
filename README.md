@@ -12,7 +12,6 @@
 <meta name="robots" content="index,follow,no-cache"/>
 <meta name="copyrights" content="Gabriel "/>
 <meta http-equiv="cache-control" content="no-archive"/>
-pesquisa de vagas de emprego na área de TI 
 
 Analise de vagas de TI
 
