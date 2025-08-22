@@ -37,7 +37,9 @@ A área Analisada na pesquisa foi: analise e desenvolvimento de sistemas.
 
 +	Localização: são Paulo, Rio de janeiro. 
 
-+	Mobilidade: presencial ou hibrido e outros. 
++	Mobilidade: presencial ou hibrido e outros.
+
+  	![capitura de grafico 1](file:///C:/Users/Gabri/OneDrive/Imagens/Captura%20de%20tela%20grafico%201.png)
 
  ---
  
