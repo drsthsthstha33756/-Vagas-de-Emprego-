@@ -19,7 +19,7 @@ Analise de vagas de TI
 
 As analise foram feitas nos principais sites de vagas de emprego como LinkedIn, Glassdoor, progromathor. Em mais de 10 vagas de emprego Analisadas pode ser vista muitas similaridades entre os hard skills e soft skills além de alguns diferenciais como por exemplo o Inglês e vagas para pessoas com PCDs.    
 
-A área analisada na pesquisa foi: analise e desenvolvimento de sistemas. 
+A área Analisada na pesquisa foi: analise e desenvolvimento de sistemas. 
 
 ---
 
